@@ -1,3 +1,5 @@
+// This code combines the pixel fade in/ out up the LED string in an order.
+
 //Random Flash animation for Neopixel Ring Bangle Bracelet
 //by Dano Wall and Becky Stern for Adafruit Industries
 //based on the Sparkle Skirt, minus the accelerometer
