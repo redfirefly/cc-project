@@ -1,3 +1,7 @@
+// This version attempts to have two strings to two PINS. 
+//Desired result is the two strings are lit at the same time, concurrent.
+//Actual result is one string completes loop first and then followed by second string. consecutive.
+
 //Random Flash animation for Neopixel Ring Bangle Bracelet
 //by Dano Wall and Becky Stern for Adafruit Industries
 //based on the Sparkle Skirt, minus the accelerometer
